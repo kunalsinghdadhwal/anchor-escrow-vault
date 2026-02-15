@@ -26,6 +26,3 @@ Idl account created: Bg6rMefUnugPeXE7nXSyTsWH14qGG2CnpXJs1LgD2WR8
 Deploy success
 kunal@Crusader:~/anchor-escrow-vault$
 ```
-```
-```
-```
